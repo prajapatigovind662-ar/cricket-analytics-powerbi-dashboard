@@ -48,13 +48,13 @@ The dashboard enables users to explore key metrics, compare players, and analyze
 ## 📷 Dashboard Preview
 
 ### Batting View
-![Batting](Espn/Templates/Batting.png)
+![Batting](Images/Batting.png)
 
 ### Bowling View
-![Bowling](Espn/Templates/Bowling.png)
+![Bowling](Images/Bowling.png)
 
 ### Fielding View
-![Fielding](Espn/Templates/Fielding.png)
+![Fielding](Images/Fielding.png)
 
 ---
 
